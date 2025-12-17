@@ -12,4 +12,4 @@ UniLearn is an e-learning platform for college students that includes:
 - JavaScript
 
 ## Live Website
-https://yourusername.github.io/UniLearn/
+https://vishnu-io.github.io/UniLearn/
